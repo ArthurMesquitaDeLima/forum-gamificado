@@ -1,0 +1,83 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    max-width: 800px;
+    margin: 31px auto;
+}
+
+.pageTitle {
+    grid-column: 1 / -1;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 31px;
+}
+
+.topicTitle {
+    grid-column: 1 / -1;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.topicTitle[for='category']{
+    grid-column: 1 / 1;
+}
+
+.topicTitle[for='tags']{
+    grid-column: span 2
+}
+
+.input, .textarea, .category select, .tags {
+    grid-column: 1 / -1;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: #e2e7ea;
+    border: none;
+    border-radius: 5px;
+}
+.category select{
+    height: 46px;
+}
+
+.tags {
+    grid-column: span 2
+}
+.textarea {
+    height: 100px;
+    resize: none;
+}
+
+.icons {
+    grid-column: 1 / -1;
+    margin-bottom: 20px;
+}
+
+.icons button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #f1f1f1;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.createButton {
+    grid-column: 3 / 4;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+
+.createButton:hover {
+    background-color: #0056b3;
+}

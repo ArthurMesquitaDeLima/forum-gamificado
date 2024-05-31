@@ -1,0 +1,363 @@
+{
+  "category": [
+    {
+      "title": "Tecnologia",
+      "subcategories": [
+        {
+          "subcategoryTitle": "Programação",
+          "numberOfPosts": 120,
+          "numberOfSetMessage": 50,
+          "lastPostBy": "Último post por: usuario1"
+        },
+        {
+          "subcategoryTitle": "Design",
+          "numberOfPosts": 80,
+          "numberOfSetMessage": 30,
+          "lastPostBy": "Último post por: usuario2"
+        },
+        {
+          "subcategoryTitle": "Segurança da Informação",
+          "numberOfPosts": 90,
+          "numberOfSetMessage": 40,
+          "lastPostBy": "Último post por: usuario3"
+        }
+      ]
+    },
+    {
+      "title": "Esportes",
+      "subcategories": [
+        {
+          "subcategoryTitle": "Futebol",
+          "numberOfPosts": 150,
+          "numberOfSetMessage": 60,
+          "lastPostBy": "Último post por: usuário4"
+        },
+        {
+          "subcategoryTitle": "Basquete",
+          "numberOfPosts": 100,
+          "numberOfSetMessage": 45,
+          "lastPostBy": "Último post por: usuário5"
+        },
+        {
+          "subcategoryTitle": "Tênis",
+          "numberOfPosts": 80,
+          "numberOfSetMessage": 30,
+          "lastPostBy": "Último post por: usuário6"
+        }
+      ]
+    }
+  ],
+  "post": [
+    {
+      "title": "Primeira Postagem",
+      "description": "Esta é a primeira postagem em nosso fórum. Bem-vindo!",
+      "publicationDate": "2024-03-01",
+      "username": "usuario1",
+      "keywords": ["bem-vindo", "introdução"],
+      "comments": [
+        {
+          "username": "usuario21",
+          "comment": "Ótima postagem! Estou ansioso para ver mais conteúdo por aqui."
+        },
+        {
+          "username": "usuario22",
+          "comment": "Bem-vindo ao fórum! Espero que tenhamos discussões interessantes."
+        },
+        {
+          "username": "usuario23",
+          "comment": "Excelente início! Estou animado para participar das discussões."
+        },
+        {
+          "username": "usuario24",
+          "comment": "Que bom ver um novo fórum surgindo. Mal posso esperar para contribuir!"
+        }
+      ],
+      "likes": 10,
+      "dislikes": 2,
+      "avatar": "https://picsum.photos/200/200?random=1"
+    },
+    {
+      "title": "Segunda Postagem",
+      "description": "Uma breve visão geral de nossas diretrizes comunitárias.",
+      "publicationDate": "2024-03-10",
+      "username": "usuario2",
+      "keywords": ["diretrizes", "comunidade"],
+      "comments": [],
+      "likes": 15,
+      "dislikes": 3,
+      "avatar": "https://picsum.photos/200/200?random=2"
+    },
+    {
+      "title": "Terceira Postagem",
+      "description": "Discussão sobre os avanços tecnológicos recentes. Esta descrição tem mais de 100 caracteres para demonstrar.",
+      "publicationDate": "2024-03-15",
+      "username": "usuario3",
+      "keywords": ["tecnologia", "avanços"],
+      "comments": [
+        {
+          "username": "user25",
+          "comment": "Estou interessado em saber mais sobre os avanços recentes na área de tecnologia."
+        },
+        {
+          "username": "user26",
+          "comment": "Vamos discutir como esses avanços podem impactar diferentes setores."
+        },
+        {
+          "username": "user27",
+          "comment": "Estou empolgado para aprender mais sobre o que o futuro reserva para a tecnologia."
+        }
+      ],
+      "likes": 20,
+      "dislikes": 1,
+      "avatar": "https://picsum.photos/200/200?random=3"
+    },
+    {
+      "title": "Quarta Postagem",
+      "description": "Explorando o futuro da energia renovável.",
+      "publicationDate": "2024-03-20",
+      "username": "usuario4",
+      "keywords": ["energia renovável", "futuro"],
+      "comments": [],
+      "likes": 18,
+      "dislikes": 5,
+      "avatar": "https://picsum.photos/200/200?random=4"
+    },
+    {
+      "title": "Quinta Postagem",
+      "description": "Recomendações de livros para leitura de primavera.",
+      "publicationDate": "2024-03-25",
+      "username": "usuario5",
+      "keywords": ["livros", "leitura", "recomendações"],
+      "comments": [],
+      "likes": 25,
+      "dislikes": 0,
+      "avatar": "https://picsum.photos/200/200?random=5"
+    },
+    {
+      "title": "Sexta Postagem",
+      "description": "O impacto da IA nos mercados de trabalho.",
+      "publicationDate": "2024-03-30",
+      "username": "usuario6",
+      "keywords": ["IA", "mercados de trabalho", "impacto"],
+      "comments": [],
+      "likes": 30,
+      "dislikes": 2,
+      "avatar": "https://picsum.photos/200/200?random=6"
+    },
+    {
+      "title": "Sétima Postagem",
+      "description": "Anúncio do programa de intercâmbio cultural.",
+      "publicationDate": "2024-04-01",
+      "username": "usuario7",
+      "keywords": ["intercâmbio cultural", "anúncio"],
+      "comments": [
+        {
+          "username": "user33",
+          "comment": "Que ótima iniciativa! Estou animado para participar e aprender sobre diferentes culturas."
+        },
+        {
+          "username": "user34",
+          "comment": "Estou ansioso para fazer novas amizades durante o programa de intercâmbio."
+        },
+        {
+          "username": "user35",
+          "comment": "Isso é maravilhoso! Estou ansioso para expandir meus horizontes culturais."
+        },
+        {
+          "username": "user36",
+          "comment": "Eu sempre quis participar de um programa de intercâmbio. Obrigado por oferecer esta oportunidade."
+        }
+      ],
+      "likes": 22,
+      "dislikes": 1,
+      "avatar": "https://picsum.photos/200/200?random=7"
+    },
+    {
+      "title": "Oitava Postagem",
+      "description": "Dicas para um trabalho remoto eficaz.",
+      "publicationDate": "2024-04-05",
+      "username": "usuario8",
+      "keywords": ["trabalho remoto", "dicas"],
+      "comments": [
+        {
+          "username": "user37",
+          "comment": "Excelentes dicas! Trabalho remoto pode ser desafiador, mas essas sugestões realmente ajudam."
+        },
+        {
+          "username": "user38",
+          "comment": "Obrigado por compartilhar essas dicas úteis. Vou definitivamente experimentá-las."
+        },
+        {
+          "username": "user39",
+          "comment": "Eu estava procurando por conselhos sobre trabalho remoto. Estas dicas são exatamente o que eu precisava!"
+        }
+      ],
+      "likes": 28,
+      "dislikes": 3,
+      "avatar": "https://picsum.photos/200/200?random=8"
+    },
+    {
+      "title": "Nona Postagem",
+      "description": "Comemorando o Dia da Terra com limpeza comunitária.",
+      "publicationDate": "2024-04-10",
+      "username": "usuario9",
+      "keywords": ["Dia da Terra", "comunidade", "limpeza"],
+      "comments": [],
+      "likes": 35,
+      "dislikes": 0,
+      "avatar": "https://picsum.photos/200/200?random=9"
+    },
+    {
+      "title": "Décima Postagem",
+      "description": "Discussão sobre o futuro da exploração espacial.",
+      "publicationDate": "2024-04-15",
+      "username": "usuario10",
+      "keywords": ["exploração espacial", "futuro"],
+      "comments": [
+        {
+          "username": "user40",
+          "comment": "Estou ansioso para ver para onde a exploração espacial nos levará no futuro."
+        },
+        {
+          "username": "user41",
+          "comment": "A exploração espacial é emocionante! Mal posso esperar para ver as descobertas futuras."
+        },
+        {
+          "username": "user42",
+          "comment": "A humanidade está destinada a explorar o cosmos. Que momento emocionante para estar vivo!"
+        },
+        {
+          "username": "user43",
+          "comment": "O espaço sempre me fascinou. Estou ansioso para ver o que o futuro nos reserva."
+        }
+      ],
+      "likes": 40,
+      "dislikes": 4,
+      "avatar": "https://picsum.photos/200/200?random=10"
+    },
+    {
+      "title": "Décima Primeira Postagem",
+      "description": "Um olhar sobre as tendências de moda sustentável.",
+      "publicationDate": "2024-04-20",
+      "username": "usuario11",
+      "keywords": ["moda sustentável", "tendências"],
+      "comments": [],
+      "likes": 31,
+      "dislikes": 2,
+      "avatar": "https://picsum.photos/200/200?random=11"
+    },
+    {
+      "title": "Décima Segunda Postagem",
+      "description": "Discutindo o papel do blockchain nas finanças.",
+      "publicationDate": "2024-04-25",
+      "username": "usuario12",
+      "keywords": ["blockchain", "finanças", "papel"],
+      "comments": [],
+      "likes": 38,
+      "dislikes": 1,
+      "avatar": "https://picsum.photos/200/200?random=12"
+    },
+    {
+      "title": "Décima Terceira Postagem",
+      "description": "Recomendações de viagem para o próximo verão.",
+      "publicationDate": "2024-05-01",
+      "username": "usuario13",
+      "keywords": ["viagem", "recomendações", "verão"],
+      "comments": [],
+      "likes": 42,
+      "dislikes": 3,
+      "avatar": "https://picsum.photos/200/200?random=13"
+    },
+    {
+      "title": "Décima Quarta Postagem",
+      "description": "O impacto das redes sociais na saúde mental.",
+      "publicationDate": "2024-05-05",
+      "username": "usuario14",
+      "keywords": ["redes sociais", "saúde mental", "impacto"],
+      "comments": [],
+      "likes": 48,
+      "dislikes": 2,
+      "avatar": "https://picsum.photos/200/200?random=14"
+    },
+    {
+      "title": "Décima Quinta Postagem",
+      "description": "Discussão sobre a ética da inteligência artificial.",
+      "publicationDate": "2024-05-10",
+      "username": "usuario15",
+      "keywords": ["ética", "inteligência artificial"],
+      "comments": [],
+      "likes": 50,
+      "dislikes": 5,
+      "avatar": "https://picsum.photos/200/200?random=15"
+    },
+    {
+      "title": "Décima Sexta Postagem",
+      "description": "A importância da diversidade no local de trabalho.",
+      "publicationDate": "2024-05-15",
+      "username": "usuario16",
+      "keywords": ["diversidade", "local de trabalho", "importância"],
+      "comments": [],
+      "likes": 36,
+      "dislikes": 2,
+      "avatar": "https://picsum.photos/200/200?random=16"
+    },
+    {
+      "title": "Décima Sétima Postagem",
+      "description": "Explorando o potencial da realidade aumentada na educação.",
+      "publicationDate": "2024-05-20",
+      "username": "usuario17",
+      "keywords": ["realidade aumentada", "educação", "potencial"],
+      "comments": [],
+      "likes": 40,
+      "dislikes": 1,
+      "avatar": "https://picsum.photos/200/200?random=17"
+    },
+    {
+      "title": "Décima Oitava Postagem",
+      "description": "Dicas para manter um equilíbrio saudável entre trabalho e vida pessoal.",
+      "publicationDate": "2024-05-25",
+      "username": "usuario18",
+      "keywords": [
+        "equilíbrio entre trabalho e vida pessoal",
+        "dicas",
+        "saúde"
+      ],
+      "comments": [],
+      "likes": 45,
+      "dislikes": 3,
+      "avatar": "https://picsum.photos/200/200?random=18"
+    },
+    {
+      "title": "Décima Nona Postagem",
+      "description": "Discussão sobre o impacto das mudanças climáticas na biodiversidade.",
+      "publicationDate": "2024-06-01",
+      "username": "usuario19",
+      "keywords": ["mudanças climáticas", "biodiversidade", "impacto"],
+      "comments": [],
+      "likes": 55,
+      "dislikes": 2,
+      "avatar": "https://picsum.photos/200/200?random=19"
+    },
+    {
+      "title": "Vigésima Postagem",
+      "description": "Introduzindo uma nova série sobre vida sustentável.",
+      "publicationDate": "2024-06-05",
+      "username": "usuario20",
+      "keywords": ["vida sustentável", "série", "introdução"],
+      "comments": [],
+      "likes": 48,
+      "dislikes": 0,
+      "avatar": "https://picsum.photos/200/200?random=20"
+    }
+  ],
+  "users": [
+    {
+      "username": "usuario1",
+      "password": "senha123"
+    },
+    {
+      "username": "usuario2",
+      "password": "senha456"
+    }
+  ]
+}

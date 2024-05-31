@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Krub:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+div {
+    font-family: "Krub", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #182730;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: .01em;
+}
+
+:root {
+    --font-size-small: 0.75rem;
+    --font-size-medium: 0.875rem;
+    --font-size-large: 1.0rem;
+    --font-size-extra-large: 1.5rem;
+    --gap: 4px;
+    --bg-color: #ccc;
+    --bg-color-light: #999;
+    --bg-color-dark: #666;
+    --bg-color-darkiest: #333;
+    --text-color: #264653; 
+    --text-color-light: #457b9d;
+    --text-color-dark: #0d2c54;
+}
